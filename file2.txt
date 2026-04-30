@@ -1,2 +1,1 @@
-"Second file" 
-"Final update" 
+Second file content
